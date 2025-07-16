@@ -28,7 +28,7 @@
 - [x] GitHub organization with well-maintained repository (1 point)
 - [x] Regular commits and meaningful pull requests from all team members (1 point)
 - [ ] Project board (GitHub Projects) with task tracking (1 point)
-- [ ] Team member roles and responsibilities documentation (1 point)
+- [x] Team member roles and responsibilities documentation (1 point)
 
 #### Documentation (4 points)
 - [ ] Project overview and setup instructions (1 point)
@@ -51,3 +51,10 @@
 Total points implemented: XX/30 (excluding bonus points)
 
 Note: For each implemented feature, provide a brief description or link to the relevant implementation below the checklist.
+
+## Our team:
+- Alexandr Zolotarev - backend developer, teamlead
+- Georgii Beliaev - backend developer
+- Ilia Kazachkov - bakcend developer, QA
+- Mamajonov Khayotbek - frontend developer
+- Aleksei Chegaev - frontend developer
