@@ -31,7 +31,7 @@
 - [x] Team member roles and responsibilities documentation (1 point)
 
 #### Documentation (4 points)
-- [ ] Project overview and setup instructions (1 point)
+- [x] Project overview and setup instructions (1 point)
 - [ ] Screenshots and GIFs of key features (1 point)
 - [x] API documentation (1 point)
 - [ ] Architecture diagrams and explanations (1 point)
