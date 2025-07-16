@@ -20,7 +20,7 @@
 #### DevOps & deployment (4 points)
 - [x] Docker compose for all services (1 point)
 - [ ] CI/CD pipeline implementation (1 point)
-- [ ] Environment configuration management using config files (1 point)
+- [x] Environment configuration management using config files (1 point)
 - [ ] GitHub pages for the project (1 point)
 
 ### Non-Technical Requirements (10 points)
