@@ -10,7 +10,7 @@
 - [x] Comprehensive unit and integration tests (1 point)
 
 #### Frontend development (8 points)
-- [ ] Flutter-based cross-platform application (mobile + web) (3 points)
+- [x] Flutter-based cross-platform application (mobile + web) (3 points)
 - [ ] Responsive UI design with custom widgets (1 point)
 - [ ] State management implementation (1 point)
 - [ ] Offline data persistence (1 point)
