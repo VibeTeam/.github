@@ -51,6 +51,8 @@
 Total points implemented: XX/30 (excluding bonus points)
 
 Note: For each implemented feature, provide a brief description or link to the relevant implementation below the checklist.
+<img width="390" height="606" alt="image" src="https://github.com/user-attachments/assets/b1884c38-fce9-4334-813f-b75a6fdb48ea" />
+<img width="814" height="972" alt="image" src="https://github.com/user-attachments/assets/216591ea-b0c1-46ba-ad82-23d716360daa" />
 
 ## Our team:
 - Alexandr Zolotarev - backend developer, teamlead
