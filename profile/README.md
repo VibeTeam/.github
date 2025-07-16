@@ -2,7 +2,7 @@
 
 ### Technical requirements (20 points)
 #### Backend development (8 points)
-- [ ] Go-based microservices architecture (minimum 3 services) (3 points)
+- [x] Go-based microservices architecture (minimum 3 services) (3 points)
 - [x] RESTful API with Swagger documentation (1 point)
 - [ ] gRPC implementation for communication between microservices (1 point)
 - [x] PostgreSQL database with proper schema design (1 point)
@@ -11,15 +11,15 @@
 
 #### Frontend development (8 points)
 - [x] Flutter-based cross-platform application (mobile + web) (3 points)
-- [ ] Responsive UI design with custom widgets (1 point)
-- [ ] State management implementation (1 point)
+- [x] Responsive UI design with custom widgets (1 point)
+- [x] State management implementation (1 point)
 - [ ] Offline data persistence (1 point)
-- [ ] Unit and widget tests (1 point)
+- [x] Unit and widget tests (1 point)
 - [ ] Support light and dark mode (1 point)
 
 #### DevOps & deployment (4 points)
 - [x] Docker compose for all services (1 point)
-- [ ] CI/CD pipeline implementation (1 point)
+- [x] CI/CD pipeline implementation (1 point)
 - [x] Environment configuration management using config files (1 point)
 - [ ] GitHub pages for the project (1 point)
 
@@ -32,12 +32,12 @@
 
 #### Documentation (4 points)
 - [x] Project overview and setup instructions (1 point)
-- [ ] Screenshots and GIFs of key features (1 point)
+- [x] Screenshots and GIFs of key features (1 point)
 - [x] API documentation (1 point)
-- [ ] Architecture diagrams and explanations (1 point)
+- [x] Architecture diagrams and explanations (1 point)
 
 #### Code quality (2 points)
-- [ ] Consistent code style and formatting during CI/CD pipeline (1 point)
+- [x] Consistent code style and formatting during CI/CD pipeline (1 point)
 - [x] Code review participation and resolution (1 point)
 
 ### Bonus Features (up to 10 points)
