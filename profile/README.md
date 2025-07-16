@@ -15,7 +15,7 @@
 - [x] State management implementation (1 point)
 - [ ] Offline data persistence (1 point)
 - [x] Unit and widget tests (1 point)
-- [ ] Support light and dark mode (1 point)
+- [x] Support light and dark mode (1 point)
 
 #### DevOps & deployment (4 points)
 - [x] Docker compose for all services (1 point)
