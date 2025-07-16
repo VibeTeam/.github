@@ -55,6 +55,6 @@ Note: For each implemented feature, provide a brief description or link to the r
 ## Our team:
 - Alexandr Zolotarev - backend developer, teamlead
 - Georgii Beliaev - backend developer
-- Ilia Kazachkov - bakcend developer, QA
+- Ilia Kazachkov - backend developer, QA
 - Mamajonov Khayotbek - frontend developer
 - Aleksei Chegaev - frontend developer
